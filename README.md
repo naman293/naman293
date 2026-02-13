@@ -44,7 +44,7 @@ I use AI as a practical tool to enhance engineering workflows and system capabil
 
 ###  APIs & Integration ~~
 <p>
-  <img src="https://img.shields.io/badge/API_Design-242424?style=for-the-badge&logo=swagger&logoColor=C9A7EB"/>
+  <img src="https://img.shields.io/badge/API_Layer-2A2438?style=for-the-badge&logo=swagger&logoColor=7C3AED"/>
 </p>
 
 
@@ -110,8 +110,32 @@ I use AI as a practical tool to enhance engineering workflows and system capabil
   </a>
 </p>
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## 📜 Statistics
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=naman293&show_icons=true&hide_border=true&bg_color=00000000&title_color=C9A7EB&icon_color=A78BFA&text_color=9CA3AF"
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=naman293&layout=compact&hide_border=true&bg_color=00000000&title_color=C9A7EB&text_color=9CA3AF"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=naman293&theme=transparent&hide_border=true&stroke=C9A7EB&ring=A78BFA&fire=C084FC&currStreakLabel=C9A7EB&sideLabels=C084FC&sideNums=C084FC&dates=9CA3AF"
+    height="165"
+  />
+</p>
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
