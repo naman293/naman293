@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=views&color=C9A7EB&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=naman293&label=views&color=C9A7EB&style=flat" alt="profile views" />
 </p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
